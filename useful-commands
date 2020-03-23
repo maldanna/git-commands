@@ -1,0 +1,15 @@
+1. git branch -> it will show all branches in local repository
+2.git branch -a - it will show all branches in local and remote repository
+3.git branch branch_name  -> it will create new branch
+3.git checkout branch_name --> it will switch ffrom current branch to desired branch
+4.git branch
+
+https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
+
+above link useful 
+
+
+
+
+
+
